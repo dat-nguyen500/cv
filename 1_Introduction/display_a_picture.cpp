@@ -2,7 +2,7 @@
 
 int main() 
 {
-    cv::Mat img = cv::imread("C:/Users/datng/OneDrive/OneDrive/Mécatronique/Vision par ordinateur/cv/lena.png");
+    cv::Mat img = cv::imread("C:/Users/datng/OneDrive/OneDrive/Mecatronique/Vision par ordinateur/cv/lena.png");
     if (img.empty()) 
     {
         std::cout << "Could not read the image: " << "1_introduction/lena.png" << std::endl;

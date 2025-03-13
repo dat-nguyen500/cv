@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mécatronique\Vision par ordinateur\cv\1_introduction\display_a_picture.cpp">
+    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Vision par ordinateur\cv\1_introduction\display_a_picture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\datng\OneDrive\OneDrive\Mécatronique\Vision par ordinateur\cv\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Vision par ordinateur\cv\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{74E59825-7246-31B5-82B5-94C57E9A7F9E}</UniqueIdentifier>
+      <UniqueIdentifier>{8B36C1DB-66D2-36F8-A116-26B43613839B}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

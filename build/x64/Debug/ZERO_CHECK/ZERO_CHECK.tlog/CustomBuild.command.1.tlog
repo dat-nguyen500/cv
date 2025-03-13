@@ -1,0 +1,10 @@
+^C:\USERS\DATNG\ONEDRIVE\ONEDRIVE\MECATRONIQUE\VISION PAR ORDINATEUR\CV\BUILD\CMAKEFILES\12366E39134F7CD0C2D728932E6F7BCA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/datng/OneDrive/OneDrive/Mecatronique/Vision par ordinateur/cv" "-BC:/Users/datng/OneDrive/OneDrive/Mecatronique/Vision par ordinateur/cv/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/datng/OneDrive/OneDrive/Mecatronique/Vision par ordinateur/cv/build/cv.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

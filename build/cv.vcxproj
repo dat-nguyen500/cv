@@ -24,7 +24,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{624F044B-2C05-3D2F-AE39-2C7D34197F81}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
     <ProjectName>cv</ProjectName>
     <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
@@ -336,7 +336,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Vision par ordinateur\cv\1_introduction\display_a_video.cpp" />
+    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Vision par ordinateur\cv\1_introduction\display_a_trackbar_video.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
